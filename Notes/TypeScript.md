@@ -10,7 +10,6 @@ yarn create vite
 ```bash
 yarn dev #dentro de la carpeta del proyecto
 ```
-
 ---
 
 <p align="center">
